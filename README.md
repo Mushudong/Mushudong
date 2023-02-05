@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mushudong
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning C++ and R.
 - 💞️ I’m looking to collaborate on a variety of projects to gain experience.
 - 📫 How to reach me: Mushudong@gmail.com (email)
 
